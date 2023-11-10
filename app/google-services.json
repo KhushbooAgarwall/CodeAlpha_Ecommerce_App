@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180414038055",
+    "project_id": "e-commerce-app-c1b97",
+    "storage_bucket": "e-commerce-app-c1b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180414038055:android:f071b9e2d8d7dc0f660e02",
+        "android_client_info": {
+          "package_name": "com.khushboo.shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsYiVv_uXliGGyWrlleNYN9QcMm_zY-vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
